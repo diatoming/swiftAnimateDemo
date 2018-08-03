@@ -260,7 +260,7 @@ class func springAnimationWithPath(_ path : String , mass : CGFloat , stiffness 
         return springAni
     }
 ```
-
+```
 效果：
 ![aniSpring.gif](http://upload-images.jianshu.io/upload_images/1940927-b73cc6af074635ac.gif?imageMogr2/auto-orient/strip)
 
