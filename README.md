@@ -81,7 +81,7 @@ class func baseAnimationWithKeyPath(_ path : String , fromValue : Any? , toValue
         
     }
 ```
-```
+
 实例图：
 ![aniChange.gif](http://upload-images.jianshu.io/upload_images/1940927-21964334111a0c25.gif?imageMogr2/auto-orient/strip)
 
